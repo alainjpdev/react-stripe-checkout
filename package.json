@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Create a checkout session without backend",
   "engines": {
-    "node": "16.13.2"
-  },
-  "engines": {
+    "node": "16.13.2",
     "npm": "8.1.2"
   },
   "keywords": [],
