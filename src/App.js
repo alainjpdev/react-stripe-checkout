@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Checkout from "./components/Checkout";
 
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

@@ -4,7 +4,7 @@ import { loadStripe } from "@stripe/stripe-js";
 import CardIcon from "../images/credit-card.svg";
 import ProductImage from "../images/product-image.jpg";
 
-import "../styles.css";
+import "../style.css";
 
 let stripePromise;
 
