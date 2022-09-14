@@ -2,6 +2,12 @@
   "name": "stripe-checkout-client-only",
   "version": "1.0.0",
   "description": "Create a checkout session without backend",
+  "engines": {
+    "node": "16.13.2"
+  },
+  "engines": {
+    "npm": "8.1.2"
+  },
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
