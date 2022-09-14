@@ -4,8 +4,6 @@
   "description": "Create a checkout session without backend",
   "keywords": [],
   "main": "src/index.js",
-  
-  }
   "dependencies": {
     "@stripe/stripe-js": "1.21.2",
     "react": "17.0.2",
